@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e716958a-75d7-48a9-a9ee-03b381e14fb2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/projectconstants/Someconstants.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearningProject/main/java/MasterMethodsExecutorAndObjectCreator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearningProject/main/java/MasterMethodsExecutorAndObjectCreator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearningProject/main/java/printer/Printer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearningProject/main/java/printer/Printer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JavaCourse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JavaCourse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/MasterMethodsExecutorAndObjectCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MasterMethodsExecutorAndObjectCreator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/human/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/human/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/simplytext/TextHolderAndDyplayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/simplytext/TextHolderAndDyplayer.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -320,7 +313,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543790338192" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543791353053" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
@@ -385,7 +378,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -396,12 +388,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49830508" visible="true" weight="0.26385543" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49830508" weight="0.26385543" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.35831064" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49713877" weight="0.26575342" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49713877" visible="true" weight="0.26506025" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5028612" side_tool="true" weight="0.2780822" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32876712" />
