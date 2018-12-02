@@ -1,18 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-<<<<<<< HEAD
-    <list default="true" id="46cbcad2-a898-4ee0-ba8f-0a094fd5314a" name="Default Changelist" comment="" />
-=======
-    <list default="true" id="46cbcad2-a898-4ee0-ba8f-0a094fd5314a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MasterMethodsExecutorAndObjectCreator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/printer/Printer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/simplytext/TextHolderAndDyplayer.java" afterDir="false" />
+    <list default="true" id="e716958a-75d7-48a9-a9ee-03b381e14fb2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/projectconstants/Someconstants.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LearningProject/main/java/MasterMethodsExecutorAndObjectCreator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearningProject/main/java/MasterMethodsExecutorAndObjectCreator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LearningProject/main/java/printer/Printer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearningProject/main/java/printer/Printer.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/JavaCourse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JavaCourse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/MasterMethodsExecutorAndObjectCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MasterMethodsExecutorAndObjectCreator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/human/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/human/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/simplytext/TextHolderAndDyplayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/simplytext/TextHolderAndDyplayer.java" afterDir="false" />
     </list>
->>>>>>> 3ed11215bbbc2ca71f71f95998ffe0ed92aa5053
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,35 +19,95 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="-344380697">
+    <session id="1714576072">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.0" value="3" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="gitignore" value="1" />
-          <entry key="java" value="4" />
+          <entry key="java" value="20" />
+          <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Git file" value="1" />
-          <entry key="JAVA" value="4" />
+          <entry key="JAVA" value="20" />
+          <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="26" />
-          <entry key="java" value="411" />
+          <entry key="java" value="1483" />
+          <entry key="txt" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="411" />
-          <entry key="PLAIN_TEXT" value="26" />
+          <entry key="JAVA" value="1483" />
+          <entry key="PLAIN_TEXT" value="18" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-338268971">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="7" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.5" value="2" />
+          <entry key="project.open.time.7" value="2" />
+          <entry key="project.opened" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="2175" />
+          <entry key="txt" value="33" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="2175" />
+          <entry key="PLAIN_TEXT" value="33" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="10" />
+          <entry key="png" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Image" value="1" />
+          <entry key="JAVA" value="10" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-344380697">
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="1" />
         </counts>
       </usages-collector>
     </session>
@@ -59,32 +117,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/JavaCourse.java">
           <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-            <state relative-caret-position="255">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-              <folding>
-                <element signature="e#415#416#0" expanded="true" />
-                <element signature="e#455#456#0" expanded="true" />
-              </folding>
-=======
-            <state relative-caret-position="105">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
->>>>>>> 3ed11215bbbc2ca71f71f95998ffe0ed92aa5053
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-<<<<<<< HEAD
-=======
-        <entry file="file://$PROJECT_DIR$/src/main/java/simplytext/TextHolderAndDyplayer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="31" lean-forward="true" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
-              <folding>
-                <element signature="e#472#473#0" expanded="true" />
-                <element signature="e#512#513#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="75">
+              <caret line="5" column="44" lean-forward="true" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -93,36 +127,24 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/MasterMethodsExecutorAndObjectCreator.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
+              <caret line="12" column="34" lean-forward="true" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/printer/Printer.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/simplytext/TextHolderAndDyplayer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="180">
+              <caret line="12" column="49" lean-forward="true" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="49" />
               <folding>
-                <element signature="e#110#111#0" expanded="true" />
-                <element signature="e#159#160#0" expanded="true" />
-                <element signature="e#268#269#0" expanded="true" />
+                <element signature="e#588#589#0" expanded="true" />
+                <element signature="e#628#629#0" expanded="true" />
+                <element signature="e#663#664#0" expanded="true" />
+                <element signature="e#689#690#0" expanded="true" />
               </folding>
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
->>>>>>> 3ed11215bbbc2ca71f71f95998ffe0ed92aa5053
-        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-8" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -134,70 +156,106 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src</dir>
+    </dirStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/src/main/java/MasterMethods.java" />
+        <option value="$PROJECT_DIR$/src/main/resource/someTextFile.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/Bycicle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Bicycle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/bicycle/Bicycle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/TextProvider.java" />
+        <option value="$PROJECT_DIR$/src/main/java/vehicles/Bicycle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/human/Human.java" />
+        <option value="$PROJECT_DIR$/src/main/java/printer/Printer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/human/Student.java" />
         <option value="$PROJECT_DIR$/src/main/java/JavaCourse.java" />
+        <option value="$PROJECT_DIR$/src/main/java/projectconstants/someconstants.java" />
+        <option value="$PROJECT_DIR$/src/main/java/projectconstants/Someconstants.java" />
         <option value="$PROJECT_DIR$/src/main/java/MasterMethodsExecutorAndObjectCreator.java" />
         <option value="$PROJECT_DIR$/src/main/java/simplytext/TextHolderAndDyplayer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/printer/Printer.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1440" />
-    <option name="height" value="900" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="23" />
+    <option name="y" value="23" />
+    <option name="width" value="1365" />
+    <option name="height" value="822" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane" />
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
             <path>
-              <item name="java-learning" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="java-learning" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="LearningProject" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="LearningProject" type="2674bda8:ScopeViewTreeModel$GroupNode" />
             </path>
             <path>
-              <item name="java-learning" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="java-learning" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="LearningProject" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="LearningProject" type="2674bda8:ScopeViewTreeModel$GroupNode" />
               <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
-              <item name="java-learning" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="java-learning" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="LearningProject" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="LearningProject" type="2674bda8:ScopeViewTreeModel$GroupNode" />
               <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
-              <item name="java-learning" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="java-learning" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="LearningProject" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="LearningProject" type="2674bda8:ScopeViewTreeModel$GroupNode" />
               <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
-              <item name="java-learning" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="java-learning" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="LearningProject" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="LearningProject" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="human" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="LearningProject" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="LearningProject" type="2674bda8:ScopeViewTreeModel$GroupNode" />
               <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="printer" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
-              <item name="java-learning" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="java-learning" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="LearningProject" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="LearningProject" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="projectconstants" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="LearningProject" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="LearningProject" type="2674bda8:ScopeViewTreeModel$GroupNode" />
               <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
@@ -207,19 +265,63 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="LearningProject" type="58d84e3e:PackageViewProjectNode" />
+              <item name="LearningProject" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="LearningProject" type="58d84e3e:PackageViewProjectNode" />
+              <item name="LearningProject" type="616d4139:PackageViewModuleNode" />
+              <item name="main.java" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="LearningProject" type="58d84e3e:PackageViewProjectNode" />
+              <item name="LearningProject" type="616d4139:PackageViewModuleNode" />
+              <item name="main.java" type="1f31426a:PackageElementNode" />
+              <item name="printer" type="1f31426a:PackageElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="java-learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_junior_level" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_junior_level" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_junior_level" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_junior_level" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="simplytext" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
-<<<<<<< HEAD
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543772206136" />
-=======
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543772004008" />
->>>>>>> 3ed11215bbbc2ca71f71f95998ffe0ed92aa5053
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543790338192" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -236,10 +338,10 @@
   <component name="RunManager">
     <configuration name="JavaCourse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.java.JavaCourse" />
-      <module name="java-learning" />
+      <module name="LearningProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.java.*" />
+          <option name="PATTERN" value="main.java.vehicles.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -258,43 +360,51 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="46cbcad2-a898-4ee0-ba8f-0a094fd5314a" name="Default Changelist" comment="" />
-      <created>1543762887308</created>
+      <changelist id="e716958a-75d7-48a9-a9ee-03b381e14fb2" name="Default Changelist" comment="" />
+      <created>1542910782537</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1543762887308</updated>
+      <updated>1542910782537</updated>
     </task>
+    <task id="LOCAL-00001" summary="This is some amazing stuff brotha">
+      <created>1543499845904</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1543499845904</updated>
+    </task>
+    <task id="LOCAL-00002" summary="This is some amazing stuff brotha">
+      <created>1543504002096</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1543504002096</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-<<<<<<< HEAD
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
-=======
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
->>>>>>> 3ed11215bbbc2ca71f71f95998ffe0ed92aa5053
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="Designer" order="4" />
-      <window_info id="UI Designer" order="5" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32891566" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49830508" visible="true" weight="0.26385543" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.35831064" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-<<<<<<< HEAD
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.2807229" />
-=======
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.2807229" />
->>>>>>> 3ed11215bbbc2ca71f71f95998ffe0ed92aa5053
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49713877" weight="0.26575342" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5028612" side_tool="true" weight="0.2780822" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32876712" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -308,64 +418,114 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="This is some amazing stuff brotha" />
+    <option name="LAST_COMMIT_MESSAGE" value="This is some amazing stuff brotha" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>classLoader.getResource(&quot;someTextFile.txt&quot;).getFile()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>classLoader.getResource(&quot;someTextFile.txt&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>class</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8" />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resource/someTextFile.txt" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/System.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/com/sun/org/apache/xalan/internal/xsltc/compiler/util/Util.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/vehicles/Bicycle.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/TextProvider.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/io/PrintStream.java" />
+    <entry file="file://$PROJECT_DIR$/../Screenshot 2018-11-28 at 16.19.30.png" />
     <entry file="file://$PROJECT_DIR$/src/main/java/printer/Printer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="e#110#111#0" expanded="true" />
-            <element signature="e#159#160#0" expanded="true" />
-            <element signature="e#268#269#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="210">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/human/Human.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/human/Student.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/projectconstants/Someconstants.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/MasterMethodsExecutorAndObjectCreator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <caret line="12" column="34" lean-forward="true" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/simplytext/TextHolderAndDyplayer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="31" lean-forward="true" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+        <state relative-caret-position="180">
+          <caret line="12" column="49" lean-forward="true" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="49" />
           <folding>
-            <element signature="e#472#473#0" expanded="true" />
-            <element signature="e#512#513#0" expanded="true" />
+            <element signature="e#588#589#0" expanded="true" />
+            <element signature="e#628#629#0" expanded="true" />
+            <element signature="e#663#664#0" expanded="true" />
+            <element signature="e#689#690#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7071">
+          <caret line="474" column="16" lean-forward="true" selection-start-line="474" selection-start-column="16" selection-end-line="474" selection-end-column="16" />
+          <folding>
+            <element signature="e#21331#21337#0" expanded="true" />
+            <element signature="e#21353#21359#0" expanded="true" />
+            <element signature="e#21575#21581#0" expanded="true" />
+            <element signature="e#21597#21603#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/JavaCourse.java">
       <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-        <state relative-caret-position="255">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="e#415#416#0" expanded="true" />
-            <element signature="e#455#456#0" expanded="true" />
-          </folding>
-=======
-        <state relative-caret-position="105">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
->>>>>>> 3ed11215bbbc2ca71f71f95998ffe0ed92aa5053
+        <state relative-caret-position="75">
+          <caret line="5" column="44" lean-forward="true" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
           <splitter-proportions>
@@ -389,9 +549,9 @@
           </splitter-proportions>
         </settings>
       </state>
-      <state key="ProjectJDKs.UI">
+      <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>1.8</last-edited>
+          <last-edited>java-learning</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
