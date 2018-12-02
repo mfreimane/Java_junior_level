@@ -7,4 +7,6 @@ public class JavaCourse {
         MasterMethodsExecutorAndObjectCreator masterMethodsExecutorAndObjectCreator = new MasterMethodsExecutorAndObjectCreator();
         masterMethodsExecutorAndObjectCreator.executeMethodsAndCreateObjects();
     }
+
+
 }
