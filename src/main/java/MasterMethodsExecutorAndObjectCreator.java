@@ -48,8 +48,7 @@ public class MasterMethodsExecutorAndObjectCreator {
         printTextLine(TEACHER_NAME + teacher.getFirstName());
         printTextLine(TEACHER_LAST_NAME + teacher.getLastName());
         printTextLine(TEACHER_AGE + String.valueOf(teacher.getAge()));
-        printTextLine(String.valueOf(teacher.getSalary()) + STANDARD_CURRENCY );
-//        printTextLine(String.valueOf(String.format(("%.2f"), teacher.getSalary())) + STANDARD_CURRENCY );
+        printTextLine(String.valueOf(teacher.getSalary()) + " " + STANDARD_CURRENCY );
 
 
     }
