@@ -12,4 +12,11 @@ public class Printer {
     public static void printTextLine(int printableText) {
         System.out.println(printableText);
     }
+
+    public static void printTextLine(double printableText) {
+        System.out.println(printableText);
+    }
+
+
 }
+//}
