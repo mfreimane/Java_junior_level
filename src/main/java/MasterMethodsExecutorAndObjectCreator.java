@@ -22,7 +22,7 @@ public class MasterMethodsExecutorAndObjectCreator {
 
     private void callMethodPrintSomeText() {
         PrintNumbers printNumbers = new PrintNumbers();
-        printNumbers.printText();
+        printNumbers.displayNumbers();
     }
 
     private void createHuman() {

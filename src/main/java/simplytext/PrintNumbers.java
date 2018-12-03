@@ -4,7 +4,7 @@ import static main.java.printer.PrinterForNumbers.printTextLine1;
 
 public class PrintNumbers {
 
-        public void printText() {
+        public void displayNumbers() {
             int textValueFromOtherMethod3 = getSomeNumber();
             double textValueFromOtherMethod4 = getDoubleNumber();
             Integer textValueFromOtherMethod5 = getIntegerNumber();
