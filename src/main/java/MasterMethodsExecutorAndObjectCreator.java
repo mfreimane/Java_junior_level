@@ -4,11 +4,13 @@ import main.java.human.Human;
 import main.java.human.Student;
 import main.java.simplytext.TextHolderAndDyplayer;
 import static main.java.printer.Printer.*;
+import static main.java.projectConstants.SomeConstants.STUDENT_NAME;
 
 public class MasterMethodsExecutorAndObjectCreator {
     public void executeMethodsAndCreateObjects() {
 //        callMethodWhichWillPrintSomeText();
-        createHuman();
+//        createHuman();
+        createStudent();
 
     }
 
@@ -26,6 +28,16 @@ public class MasterMethodsExecutorAndObjectCreator {
 
     private void createStudent() {
         Student rasma = new Student("Rasma", "Veidemane", 18, true);
+        boolean thisIsBooleanVariable = rasma.getIsisActiveStudentId();
+        String thisIsStringVariable = String.valueOf(rasma.getIsisActiveStudentId());
+        String anotherOneStringContact = "Another name : ";
+
+        printTextLine(STUDENT_NAME + rasma.getFirstName());
+        printTextLine(anotherOneStringContact + rasma.getFirstName());
+        printTextLine("Student last name : " + rasma.getLastName());
+        printTextLine("Student age : " + String.valueOf(rasma.getAge()));
+        printTextLine("Is Student ID is active : " + String.valueOf(rasma.getIsisActiveStudentId()));
+
     }
 
 }
