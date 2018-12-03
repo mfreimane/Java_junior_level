@@ -27,7 +27,6 @@ public class MasterMethodsExecutorAndObjectCreator {
 
     private void createHuman() {
         Human janis = new Human("Janis", "Berzins", 15);
-        printTextLine(janis.getAge());
         printTextLine(janis.getFirstName());
         printTextLine(janis.getLastName());
     }

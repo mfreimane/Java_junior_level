@@ -9,7 +9,4 @@ public class Printer {
         System.out.println(printableText);
     }
 
-    public static void printTextLine(int printableText) {
-        System.out.println(printableText);
-    }
 }
