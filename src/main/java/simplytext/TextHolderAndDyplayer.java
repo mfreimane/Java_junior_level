@@ -7,12 +7,13 @@ public class TextHolderAndDyplayer {
         String firstStringVariable = "I'm starting to learn Java basics!";
         String textValueFromOtherMethod = getSomeText();
         int textValueFromOtherMethod2 = getSomeNumber();
+        char oneChar = 'A';
+
         printTextLine("Hello TDL");
         printTextLine(firstStringVariable);
         printTextLine(textValueFromOtherMethod);
         printTextLine(textValueFromOtherMethod2);
 
-        char oneChar = 'A';
 
         printTextLine(oneChar);
     }
