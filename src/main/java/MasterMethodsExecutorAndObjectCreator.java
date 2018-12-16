@@ -2,6 +2,7 @@ package main.java;
 
 import main.java.human.Human;
 import main.java.human.Student;
+import main.java.readingFromFile.ReadSomethingFromFile;
 import main.java.simplytext.TextHolderAndDyplayer;
 
 import java.util.ArrayList;
@@ -22,8 +23,13 @@ public class MasterMethodsExecutorAndObjectCreator {
 //        exampleWithForLoop();
 //        exampleWithForEachLoop();
 //        exampleOfArray();
-        exampleWithMap();
+//        exceptionsExample();
+//        exampleWithMap();
+        ReadSomethingFromFile readSomethingFromFile = new ReadSomethingFromFile();
+        readSomethingFromFile.letsReadThatTextFile();
     }
+
+
 
     private void callMethodWhichWillPrintSomeText() {
         TextHolderAndDyplayer textHolderAndDyplayer = new TextHolderAndDyplayer();
@@ -151,6 +157,22 @@ public class MasterMethodsExecutorAndObjectCreator {
             System.out.println(monthTemp);
         }
 
+    }
+
+    private void exceptionsExample() {
+        try {
+            int firstInt = 100;
+            int secondInt = 0;
+            int thirdInt = 5;
+
+            int divideResultVariable = firstInt / secondInt;
+
+            System.out.println(divideResultVariable);
+        } catch (Exception e) {
+            System.out.println("Something bad happened in TRY block" + e.getMessage());
+        } finally {
+            System.out.println("This is finally block");
+        }
     }
 
 
