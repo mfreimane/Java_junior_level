@@ -1,7 +1,7 @@
 package main.java.human;
 
 public class Human {
-    private String firstName;
+    protected String firstName;
     private String lastName;
     private int age;
 
